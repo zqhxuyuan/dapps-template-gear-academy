@@ -18,3 +18,4 @@ tmg1-io.workspace = true
 
 [dev-dependencies]
 gtest.workspace = true
+gmeta.workspace = true
